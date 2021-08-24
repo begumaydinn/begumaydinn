@@ -43,7 +43,7 @@
 <p align="left">
 
 <img src="https://github-readme-stats.vercel.app/api?username=begumaydinn&theme=tokyonight" alt="my github stats" width="49%"/>&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=begumaydinn&theme=gradient" alt="my commit status" width="49%" /> </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=begumaydinn&theme=gradient&layout=compact" alt="languages" width="50%" > </p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=begumaydinn&theme=tokyonight" alt="my commit status" width="49%" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=begumaydinn&theme=tokyonight&layout=compact" alt="languages" width="50%" > </p>
 
 
