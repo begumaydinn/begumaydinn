@@ -6,7 +6,7 @@
 
 ## 👨👩 Social![image](https://user-images.githubusercontent.com/81794682/130689846-bc884a8b-2666-436f-b765-e44b34f735de.png)
 
-[![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)]( https://www.linkedin.com/in/begumaaydin/)![image](https://user-images.githubusercontent.com/81794682/130689880-3e99de83-9896-431b-aab4-2ca7d54d3f38.png)
+[![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)]( https://www.linkedin.com/in/begumaaydin/)
 
 [![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:begumaaydinn@gmail.com)![image](https://user-images.githubusercontent.com/81794682/130689913-320f2063-d11d-440b-8b51-09b835d02225.png)
 
